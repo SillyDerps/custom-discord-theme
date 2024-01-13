@@ -2,7 +2,7 @@
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
 :root {
   --app-font: "Google Sans";
-  --app-bg: var(--main-alt);
+  --app-bg: hsl(136,0%,0%);
   --accent-hue: 224;
   --accent-saturation: 71%;
   --accent-lightness: 61%;
@@ -68,14 +68,14 @@
 }
 
 .theme-dark {
-  --main-color: #16171a;
+  --main-color: #000000;
   --main-alt: #0f1012;
   --accent-hsl--material-you: var(--accent-hsl);
   --accent-text-color--material-you: var(--accent-text-color);
   --server-color: transparent;
   --server-folder-color: hsl(0,0%,100%,0.085);
   --status-picker-color: #2c2d31;
-  --sidebar-panel-color: #212226;
+  --sidebar-panel-color: #000000;
   --chat-color: var(--main-color);
   --message-color: hsl(216,7%,14%);
   --message-color-hover: hsl(216,7%,18%);
