@@ -209,7 +209,7 @@
 }
 
 ::selection {
-  background: hsl(var(--accent-hsl), 0.35);
+  background: hsl(220,0%,0%);
   text-shadow: none;
 }
 
