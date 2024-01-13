@@ -69,12 +69,12 @@
 
 .theme-dark {
   --main-color: #000000;
-  --main-alt: #0f1012;
+  --main-alt: #000000;
   --accent-hsl--material-you: var(--accent-hsl);
   --accent-text-color--material-you: var(--accent-text-color);
   --server-color: transparent;
   --server-folder-color: hsl(0,0%,100%,0.085);
-  --status-picker-color: #2c2d31;
+  --status-picker-color: #000000;
   --sidebar-panel-color: #000000;
   --chat-color: var(--main-color);
   --message-color: hsl(0,0%,4%);
@@ -83,7 +83,7 @@
   --attachment-color: hsl(216,7%,9%);
   --typing-color: hsl(225,8.3%,9.4%,0.9);
   --popout-color: #000000;
-  --popout-color-alt: #202225;
+  --popout-color-alt: #000000;
   --popout-header-border: hsl(0,0%,100%,0.125);
   --separator-color: hsl(0,0%,100%,0.125);
   --header-secondary: #eaeaea;
