@@ -47,7 +47,7 @@
   --stream-color: #593695;
   --stream-flash: 89,54,149;
   --xbox-color: #107c10;
-  --tooltip-color: hsl(0,0%,38%,0.9);
+  --tooltip-color: hsl(0,0%,0%,);
   --tooltip-text-color: hsl(0,0%,87%);
   --tooltip-font-size: 12px;
   --tooltip-padding: 8px;
@@ -77,7 +77,7 @@
   --status-picker-color: #000000;
   --sidebar-panel-color: #000000;
   --chat-color: var(--main-color);
-  --message-color: hsl(0,0%,4%);
+  --message-color: hsl(0,0%,0%);
   --message-color-hover: hsl(0,1%,9%);
   --message-color-alt: hsl(216,7%,13%);
   --attachment-color: hsl(216,7%,9%);
