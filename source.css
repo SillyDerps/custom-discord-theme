@@ -82,7 +82,7 @@
   --message-color-alt: hsl(216,7%,13%);
   --attachment-color: hsl(216,7%,9%);
   --typing-color: hsl(225,8.3%,9.4%,0.9);
-  --popout-color: #2c2f33;
+  --popout-color: #000000;
   --popout-color-alt: #202225;
   --popout-header-border: hsl(0,0%,100%,0.125);
   --separator-color: hsl(0,0%,100%,0.125);
@@ -102,9 +102,9 @@
   --menu-item-select-accent-opacity: 0.3;
   --menu-item-text-color: #aaa;
   --card-color-outlined: transparent;
-  --card-color-filled: hsl(225,6%,13%);
-  --card-color-hover: hsl(225,6%,16%);
-  --card-color-active: hsl(225,6%,25%);
+  --card-color-filled: hsl(0,0%,0%);
+  --card-color-hover: hsl(0,1%,9%);
+  --card-color-active: hsl(0,0%,11%);
   --card-color-alt: hsl(225,6%,18%);
   --card-color-alt-hover: hsl(225,6%,21%);
   --card-border-color: hsl(220,3%,26%);
