@@ -22,7 +22,7 @@
   --message-radius: 19px;
   --message-padding-top: 8px;
   --message-padding-side: 12px;
-  --main-textarea-color: var(--input-color);
+  --main-textarea-color: hsl(0,0%,0%);
   --main-textarea-border: var(--input-border-color);
   --main-textarea-radius: 24px;
   --media-radius: calc(var(--message-radius) / 1.65);
@@ -79,7 +79,7 @@
   --chat-color: var(--main-color);
   --message-color: hsl(0,0%,0%);
   --message-color-hover: hsl(0,1%,9%);
-  --message-color-alt: hsl(216,7%,13%);
+  --message-color-alt: hsl(0,0%,0%);
   --attachment-color: hsl(216,7%,9%);
   --typing-color: hsl(225,8.3%,9.4%,0.9);
   --popout-color: #000000;
